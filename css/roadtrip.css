@@ -1,0 +1,227 @@
+body { 
+font-family: arial;
+}
+
+#roadtrip { 
+width:160px;
+height:70px;
+float: left;
+display: inline-block;
+}
+
+h1 {
+color: #006666;
+text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+
+.clear {
+  clear: both;
+}
+
+
+.nav {
+  float: left; 
+}
+
+
+ul li a:hover, ul li a:focus {
+ color:#006666;
+}
+
+
+ .nav > li a {                                               
+     color: black;
+     font-size: 25px;
+     padding: 0px 7px 5px 5px
+ }
+
+
+.nav > li {                                                           
+    display:Inline-block;
+    padding: 10px 5px 10px 10px;                              
+}
+
+
+li {
+display:inline-block;
+border-right:1px solid #aaa;
+padding:0 5px;
+}
+
+
+.center {
+width: 800px;
+height: 700px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+
+#bayview, #boat, #sliabhcliffs, #labelladonna, #breaffyhouse, #horseriding, 
+#achillisland, #diningroom
+{
+Width: 400px;
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.btn {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+
+h2{
+color: #006666;
+text-align: center;
+}
+
+h3{
+text-align: center;
+}
+
+h4{
+text-align: center;
+}
+
+#cawley, #snorkeling , #coney, #cawleysfood { 
+width: 400px;
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+
+#muckross, #muckrosswalk , #lakeside, #riverlee, #kingjohn, 
+#jameson, #odonovans { 
+Width: 400px;
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+#galwaybayhotel, #kylemoreabbey, #rusheen, #galleon, #armada, #cliffsofmoher{ 
+Width: 400px;
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+#doolincave ,#vaughan , #clayton, #loughgur, #livingbridge, #frenchtable ,
+ #lakehouse{
+Width: 400px;
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+#heading{
+color: black;
+margin: auto;
+width: 950px;
+padding: 5px;
+border: 3px black;
+border-style: groove;	
+}
+
+
+#container{
+width: 900px;
+height: 550px;
+margin: auto;
+background-color: white;
+}
+
+
+#heading2 {
+color:black;
+margin: 10px auto;
+width: 700px;
+height: 100px;
+padding: 5px;
+border: 3px;
+border-color:#006666;
+border-style: groove;
+}
+
+.right { float:right; 
+} 
+
+.left { float:left; 
+}
+
+#waw2 {
+height: 100px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+}
+
+#heading3 {
+width: 400px;
+padding: 5px;
+border: 2px black;
+border-style: groove;
+float: right;
+}
+
+#heading4 {	
+width: 450px;
+padding: 7px;
+border: 2px;
+border-style: groove;
+border-color: black;
+float: left; 
+clear: left;
+	}
+
+
+.imgContainer{
+float:left;
+}
+
+#image2, #image3, #image4, #image6 {
+width: 225px;
+height: 200px;
+}
